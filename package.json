@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hilmifauzan.github.io/homepage-tailwindcss",
+  "homepage": "http://hilmifauzan.github.io/homepage-tailwindcss",
   "dependencies": {
     "@headlessui/react": "^1.7.3",
     "@heroicons/react": "^2.0.11",
