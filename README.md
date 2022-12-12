@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo Aplication
+
+Click [Demo](http://hilmifauzan.github.io/homepage-tailwindcss) to go View Page Movie-Film. 
+
 ## Preview Homepage
 
 <p align="center">
