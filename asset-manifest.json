@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/homepage-tailwindcss/static/css/main.b66e1a08.css",
-    "main.js": "/homepage-tailwindcss/static/js/main.b3f30bbc.js",
+    "main.js": "/homepage-tailwindcss/static/js/main.d7a7a252.js",
     "static/media/Cyber.webp": "/homepage-tailwindcss/static/media/Cyber.d1e07b617c2a67076eb8.webp",
     "static/media/cybersecurity-1980x660.png": "/homepage-tailwindcss/static/media/cybersecurity-1980x660.f7d8d51a1c35592a9a9c.png",
     "index.html": "/homepage-tailwindcss/index.html",
     "main.b66e1a08.css.map": "/homepage-tailwindcss/static/css/main.b66e1a08.css.map",
-    "main.b3f30bbc.js.map": "/homepage-tailwindcss/static/js/main.b3f30bbc.js.map"
+    "main.d7a7a252.js.map": "/homepage-tailwindcss/static/js/main.d7a7a252.js.map"
   },
   "entrypoints": [
     "static/css/main.b66e1a08.css",
-    "static/js/main.b3f30bbc.js"
+    "static/js/main.d7a7a252.js"
   ]
 }
